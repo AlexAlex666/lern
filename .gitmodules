@@ -1,0 +1,3 @@
+[submodule "testLib"]
+	path = testLib
+	url = https://github.com/AlexAlex666/testLib.git
